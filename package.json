@@ -9,6 +9,7 @@
     "@testing-library/react": "^10.4.8",
     "@testing-library/user-event": "^12.1.1",
     "axios": "^0.19.2",
+    "axioss": "0.0.1-security",
     "jest-environment-jsdom-sixteen": "^1.0.3",
     "node-sass": "^4.13.1",
     "react": "^16.12.0",
