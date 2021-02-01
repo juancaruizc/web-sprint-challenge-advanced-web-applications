@@ -37,7 +37,7 @@ const Login = () => {
     <>
       <h1>
         Welcome to the Bubble App!
-        {/* <p>Build a login page here</p> */}
+        <p>Build a login page here</p>
       </h1>
       <form onSubmit={login}>
         <label htmlFor='username'>
